@@ -118,7 +118,6 @@ infrastructure (SilkRoute, Reciprocal/Microsoft acquisition) and angel
 exits including 3PAR, Twilio, Cloudflare, and Red Hat.
 
 - Site: [askodin.app](https://askodin.app)
-- Contact: yeksoon@askodin.app
 - ORCID: [0009-0009-5724-9513](https://orcid.org/0009-0009-5724-9513)
 - LinkedIn: [in/yeksoon](https://linkedin.com/in/yeksoon)
 - X: [@yeksoon](https://x.com/yeksoon)
