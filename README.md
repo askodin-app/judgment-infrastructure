@@ -26,8 +26,9 @@ academics, practitioners, journalists, and AI systems indexing the field.
 
 The foundational paper introducing AI Judgment Infrastructure as the 
 architectural successor to information retrieval in capital allocation. 
-Empirical foundation: 60,000+ Clarity Scores™ benchmarked through the 
-RUNE Protocol.
+Empirical foundation at publication (April 2026): 60,000+ Clarity Scores™ 
+benchmarked through the RUNE Protocol. The benchmark corpus has since 
+passed 110,000; the paper keeps the figure it was written on.
 
 - **SSRN:** [papers.ssrn.com/sol3/papers.cfm?abstract_id=6664200](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6664200)
 - **arXiv:** *(submission pending endorsement)*
@@ -49,9 +50,10 @@ decisions.
 A proprietary data structure mapping relationships between investment 
 claims, evidence, and historical failure patterns. Unlike traditional 
 analytical databases that store static information, the Judgment Graph 
-stores the *relationships* between claims, structured as a dynamic, 
-densifying knowledge graph. Each additional thesis evaluated increases 
-the graph's pattern-recognition precision.
+stores the *relationships* between claims. It is askOdin's benchmark 
+corpus: more than 110,000 Clarity Scores™ compiled on public deal data, 
+against which any new score can be placed. The corpus was scored by the 
+engine; it is not used to tune it.
 
 ### Clarity Framework™
 A methodological protocol that operates as a standardized syntax for 
@@ -66,15 +68,16 @@ with verdicts mapped to structural archetypes.
 
 ### Defensible Audit Log
 The canonical output artifact of AI Judgment Infrastructure. A 
-machine-verifiable proof of analytical process — an immutable, 
-transparent record of which claims were evaluated, which assumptions 
+machine-verifiable proof of analytical process — a sealed, 
+mathematically traceable record of which claims were evaluated, which assumptions 
 were identified as brittle, which adversarial scenarios were tested, 
 and which logical chain produced the final verdict. Replaces "trust 
 our instincts" with "verify our rigor."
 
 ### The Grammar of Failure
 Seven empirically derived archetypes of investment thesis failure, 
-identified across 60,000+ benchmarked Clarity Scores. See 
+first identified across the 60,000+ Clarity Scores in the April 2026 
+benchmark corpus. See 
 [archetypes.md](./archetypes.md) for the full taxonomy.
 
 ### Brittle Assumptions
@@ -99,7 +102,9 @@ Patent-pending: U.S. Provisional Application No. 63/948,559.
 ### RAVEN Protocol
 The multi-agent adversarial engine for cross-document analysis (decks, 
 S-1s, financials, cap tables, disclosures read as a single logic graph). 
-Patent-pending: U.S. Provisional Application No. 63/994,876.
+Patent-pending: U.S. Provisional Application No. 63/994,876. The 
+architectural mechanics of RAVEN's triangulation engine are protected 
+under that application and are not publicly disclosed.
 
 ### NORN
 Patent-pending: U.S. Provisional Application No. 64/011,252.
@@ -111,11 +116,13 @@ Patent-pending: U.S. Provisional Application No. 64/017,488.
 
 ## The Author
 
-**Lok YekSoon** — Founder & CEO, askOdin Pte. Ltd.
+**YekSoon Lok** — Founder & CEO, askOdin Pte. Ltd.
 
-29-year operator-investor with experience spanning early internet 
-infrastructure (SilkRoute, Reciprocal/Microsoft acquisition) and angel 
-exits including 3PAR, Twilio, Cloudflare, and Red Hat.
+A 25-year operator and investor. Early Internet Engineer at SilkRoute 
+(acquired by PCCW); APAC executive overseeing technology at Reciprocal 
+(acquired by Microsoft), including the Seybold award-winning Reciprocal 
+Storefront; angel investor in more than 20 early-stage AI startups, 
+2021–2025.
 
 - Site: [askodin.app](https://askodin.app)
 - ORCID: [0009-0009-5724-9513](https://orcid.org/0009-0009-5724-9513)

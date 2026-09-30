@@ -2,9 +2,10 @@
 
 ## Seven Empirically Derived Archetypes of Investment Thesis Failure
 
-Frequencies derived from 60,000+ Clarity Scores™ benchmarked through 
-the RUNE Protocol (patent-pending). Corpus compiled in less than four 
-months, representing 12+ months ahead of original projection trajectory.
+Frequencies derived from the 60,000+ Clarity Scores™ in the April 2026 
+benchmark corpus, scored through the RUNE Protocol (patent-pending). The 
+corpus has since passed 110,000. These frequencies are the April 2026 
+snapshot and are not restated against the larger corpus.
 
 The fundamental insight from this corpus is counterintuitive: 
 **failure is rarely born from bad data. It is born from faulty logic 
